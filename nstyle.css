@@ -1,0 +1,14 @@
+.yes{
+    color: white;
+    background-color: brown;
+}
+.no{
+    color: white;
+    background-color: crimson;
+}
+.label{
+    border: solid 3px;
+    border-radius: 40%;
+    margin: auto;
+    padding: 10px;
+}
